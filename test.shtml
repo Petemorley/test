@@ -1,0 +1,6 @@
+<HTML>
+<TITLE>Test File</TITLE>
+
+<!--#include file="hello.shtml" --> <!--#echo var="DATE_LOCAL" -->
+
+</HTML>
